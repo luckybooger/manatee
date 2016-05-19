@@ -1,0 +1,33 @@
+#manatee-family {
+  display: none;
+}
+
+#manatee {
+  display: none;
+}
+
+#clickable {
+  cursor: pointer;
+  color: blue;
+}
+
+#clickable:hover {
+  text-decoration: underline;
+}
+
+.picture {
+  cursor: pointer;
+  color: blue;
+}
+
+.picture:hover {
+  text-decoration: underline;
+}
+
+.black-background {
+  background-color: black;
+}
+
+.text-color {
+  color: white;
+}
